@@ -25,14 +25,15 @@
         },
         {
           "component": "text",
+          "name": "imageLink",
+          "value": "",
+          "label": "Image Link",
+          "valueType": "string"
+        },
+        {
+          "component": "text",
           "name": "imageAlt",
           "label": "Alt Text"
-        },{
-          "component": "aem-content",
-          "name": "reference",
-          "value": "",
-          "label": "AEM Content Picker",
-          "valueType": "string"
         }
       ]
     }
