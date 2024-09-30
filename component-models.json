@@ -12,6 +12,11 @@
         "component": "text",
         "name": "imageAlt",
         "label": "Alt Text"
+      },
+      {
+        "component": "text",
+        "name": "imageLink",
+        "label": "Image Link"
       }
     ]
   },
@@ -104,7 +109,7 @@
         "label": "Style",
         "options": [
           {
-            "name": "Highlight",
+            "name": "Highlight!!!",
             "value": "highlight"
           }
         ]
