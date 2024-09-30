@@ -14,9 +14,14 @@
         "label": "Alt Text"
       },
       {
+        "component": "aem-content",
+        "name": "internalLink",
+        "label": "Internal Link"
+      },
+      {
         "component": "text",
-        "name": "imageLink",
-        "label": "Image Link"
+        "name": "externalLink",
+        "label": "External Link"
       }
     ]
   },
@@ -56,6 +61,25 @@
           {
             "name": "h6",
             "value": "h6"
+          }
+        ]
+      },
+      {
+        "component": "multiselect",
+        "name": "classes",
+        "label": "Classes",
+        "options": [
+          {
+            "name": "Left",
+            "value": "left"
+          },
+          {
+            "name": "Right",
+            "value": "right"
+          },
+          {
+            "name": "Center",
+            "value": "center"
           }
         ]
       }

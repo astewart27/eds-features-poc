@@ -27,19 +27,6 @@
           "component": "text",
           "name": "imageAlt",
           "label": "Alt Text"
-        },
-        {
-          "component": "boolean",
-          "label": "Image boolean test",
-          "name": "imageBool",
-          "valueType": "boolean",
-          "hidden": true
-        },
-        {
-          "component": "text",
-          "name": "textRaw",
-          "label": "Raw Text",
-          "raw": "this is raw data test"
         }
       ]
     }

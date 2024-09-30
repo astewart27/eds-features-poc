@@ -25,12 +25,8 @@
           "label": "Style",
           "options": [
             {
-              "name": "Highlight!!",
+              "name": "Highlight",
               "value": "highlight"
-            },
-            {
-              "name": "Wrapper",
-              "value": "wrapper"
             }
           ]
         }
