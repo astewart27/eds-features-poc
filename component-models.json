@@ -160,19 +160,6 @@
             "value": "secondary"
           }
         ]
-      },
-      {
-        "component": "checkbox-group",
-        "label": "Checkbox Group",
-        "name": "openInNewTab",
-        "value": false,
-        "valueType": "boolean",
-        "options": [
-          {
-            "name": "Open in New Tab",
-            "value": true
-          }
-        ]
       }
     ]
   },
