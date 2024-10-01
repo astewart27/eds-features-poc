@@ -12,16 +12,6 @@
         "component": "text",
         "name": "imageAlt",
         "label": "Alt Text"
-      },
-      {
-        "component": "aem-content",
-        "name": "internalLink",
-        "label": "Internal Link"
-      },
-      {
-        "component": "text",
-        "name": "externalLink",
-        "label": "External Link"
       }
     ]
   },
@@ -160,6 +150,12 @@
             "value": "secondary"
           }
         ]
+      },
+      {
+        "component": "boolean",
+        "label": "Open in New Tab?",
+        "name": "openInNewTab",
+        "valueType": "boolean"
       }
     ]
   },
