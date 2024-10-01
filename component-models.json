@@ -164,16 +164,13 @@
       {
         "component": "checkbox-group",
         "label": "Checkbox Group",
-        "name": "checkbox",
-        "valueType": "string[]",
+        "name": "openInNewTab",
+        "value": false,
+        "valueType": "boolean",
         "options": [
           {
-            "name": "Option 1",
-            "value": "option1"
-          },
-          {
-            "name": "Option 2",
-            "value": "option2"
+            "name": "Open in New Tab",
+            "value": true
           }
         ]
       }
