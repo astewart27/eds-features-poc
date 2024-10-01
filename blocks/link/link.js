@@ -1,3 +1,3 @@
 export default function decorate(block) {
-  console.log('Title Block', block);
+  console.log('Link Block', block);
 }
