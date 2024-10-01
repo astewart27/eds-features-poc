@@ -1,3 +1,4 @@
+// Custom Link Component with Open in New Tab Functionality
 export default function decorate(block) {
   [...block.children].forEach((row, index) => {
     if (index === 1) {
